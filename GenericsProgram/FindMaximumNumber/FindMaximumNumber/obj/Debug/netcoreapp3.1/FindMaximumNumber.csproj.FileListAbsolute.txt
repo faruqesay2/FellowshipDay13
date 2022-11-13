@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day13\GenericsProgram\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day13\GenericsProgram\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day13\GenericsProgram\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day13\GenericsProgram\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day13\GenericsProgram\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csproj.CoreCompileInputs.cache
